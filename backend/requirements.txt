@@ -1,0 +1,19 @@
+# Install via pip without version restrictions to get pre-built wheels
+fastapi
+uvicorn[standard]
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+ipfshttpclient
+web3>=6.0.0
+scikit-learn
+imbalanced-learn
+httpx
+python-dotenv
+xgboost

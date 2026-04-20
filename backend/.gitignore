@@ -1,0 +1,6 @@
+backend/venv/
+node_modules/
+backend/datsets/
+*.dll
+*.csv
+__pycache__/
