@@ -75,7 +75,13 @@ python app.py
 
 ## 📸 Screenshots
 
-*Add screenshots of your project here (UI / output / prediction results)*
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 001708" src="https://github.com/user-attachments/assets/840cf47b-56ab-42eb-a044-b460cb4087ef" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 002040" src="https://github.com/user-attachments/assets/03a86051-c031-47fa-ac0e-73239f334b3b" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 002232" src="https://github.com/user-attachments/assets/465fe130-daed-4e4e-aaee-d72de3806bec" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 002316" src="https://github.com/user-attachments/assets/d7589dc4-b380-4cdb-9f39-3a018efe91ca" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 002302" src="https://github.com/user-attachments/assets/e5842fad-03ae-46d7-aa0a-8f7f1cd1c73f" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 002540" src="https://github.com/user-attachments/assets/d03748bc-4681-4ad6-b257-8f8ddda623b8" />
+
 
 ---
 
