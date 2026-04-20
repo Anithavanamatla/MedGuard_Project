@@ -1,6 +1,8 @@
-backend/venv/
+venv/
+.env
 node_modules/
-backend/datsets/
-*.dll
-*.csv
 __pycache__/
+*.pyc
+*.csv
+*.dll
+.vscode/
